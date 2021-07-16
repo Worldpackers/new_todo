@@ -18,6 +18,6 @@ Quando um usuário **desmarca** a tarefa como completa:
 
 Algumas exigências dos usuários muito empolgados com o sistema:
 * Usar o [Bootstrap](https://getbootstrap.com/) para o CSS
-* Criar uma rake task que extrai um relatório CSV de todos os eventos com: usuário, cor hexadecimal, frase e a hora que foi marcada como completa.
+* Criar uma rake task que imprime na tela um relatório CSV (não precisa gerar um arquivo; só prints mesmo) de todos os eventos com: usuário, cor hexadecimal, frase e a hora que foi marcada como completa.
 
 Faça o código exatamente como faria no dia-a-dia de trabalho. Não precisa inventar algo para impressionar : ) Só faça com o que está confortável.
